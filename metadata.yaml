@@ -1,0 +1,47 @@
+_repo: The-Love-Poems-From-Les-Heures-claires-Les-Heures-d-apr-s-midi-Les-Heures-du-Soir-_45470
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Flint, F. S. (Frank Stewart)
+    aliases:
+    - Flint, Frank Stuart
+    - Flint, F. S. (Frank Stuart)
+    - Flint, Frank Stewart
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '34483'
+    url: http://www.gutenberg.org/2009/agents/34483
+    wikipedia: http://en.wikipedia.org/wiki/F._S._Flint
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry'
+- !lcsh 'Belgian poetry (French) -- Translations into English'
+- !lcc 'PQ'
+title: 'The Love Poems
+
+  (From Les Heures claires, Les Heures d''après-midi, Les Heures du Soir)'
+url: http://www.gutenberg.org/ebooks/45470
